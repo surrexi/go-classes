@@ -21,7 +21,6 @@ func main() {
 		Gender: "man",
 	}
 	user1.Print()
-	user1.PrintAge()
 	user1.SatAge(3)
 	user1.PrintAge()
 }
